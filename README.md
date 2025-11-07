@@ -1,4 +1,3 @@
-# Nordic-WiFi6-Adapter-RTL8822BU-Windows-Driver
 # Nordic RTL8822BU WiFi 6 + Bluetooth 5.0 USB Adapter Driver for Windows
 
 ## Overview
