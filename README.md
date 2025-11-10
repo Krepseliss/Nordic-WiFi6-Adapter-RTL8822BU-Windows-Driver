@@ -23,7 +23,7 @@ These drivers allow your adapter to function properly on **Windows 10 and Window
 
 2. **Plug in the adapter**  
    - Wait a few seconds to see if Windows automatically installs the driver  
-   - If it does, run the “setup.exe” files for both Bluetooth and WiFi.
+   - If it does not, run the “setup.exe” files for both Bluetooth and WiFi.
 
 3. **Restart your computer**  
    - After reboot, your adapter should be fully functional
